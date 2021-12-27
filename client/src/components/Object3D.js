@@ -9,7 +9,7 @@ const CanvasContainer = styled.div`
     width: 350px;
     height: 350px;
     background-color: lightcyan;
-    border-radius: 1000px;
+    border-radius: 5px;
     overflow: hidden;
 `;
 
